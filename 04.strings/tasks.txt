@@ -1,0 +1,11 @@
+- skip char
+- new line
+- save in var
+- upper case
+- down case
+- trim
+- length
+- include string
+- access char of string
+- access rang of char
+- search part of 
