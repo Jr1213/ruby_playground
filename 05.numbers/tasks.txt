@@ -1,0 +1,5 @@
+- convert number to string (to_s)
+- absulate value of number (abs)
+- rounding (round)
+- celing (ceil)
+- floor (floor)
