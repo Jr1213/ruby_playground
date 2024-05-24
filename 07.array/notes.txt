@@ -1,0 +1,7 @@
+- create array
+- assess element of array  or range of items
+- assgine value to array by index
+- array method length
+- array include item
+- reverse array items
+- sort array items
